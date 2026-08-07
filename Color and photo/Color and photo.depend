@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1786132840 source:c:\users\figueroa\documents\programación para mecatrónicos\programación\foto\color and photo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"stb_image.h"
+	"stb_image_write.h"
+
+1785981905 c:\users\figueroa\documents\programación para mecatrónicos\programación\foto\color and photo\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1785981917 c:\users\figueroa\documents\programación para mecatrónicos\programación\foto\color and photo\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
